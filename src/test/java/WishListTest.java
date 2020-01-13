@@ -15,6 +15,7 @@ public class WishListTest {
     driver.findElement(By.linkText("SALE")).click();
     driver.findElement(By.linkText("VIEW DETAILS")).click();
     driver.findElement(By.className("link-wishlist")).click();
+        //edi barosanu
 
 
    // driver.quit();
